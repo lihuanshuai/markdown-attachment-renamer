@@ -1,0 +1,6 @@
+-   id: markdown-attachment-renamer
+    name: Rename Markdown Attachments
+    description: This hook rename markdown attachments
+    entry: python -m markdown_attachment_renamer
+    language: python
+    types: [text]
